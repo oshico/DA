@@ -1,7 +1,26 @@
-/bin
-/etc
-/include
-/lib
+# Virtual Environment
+/bin/
+/etc/
+/include/
+/lib/
+/lib64/
+/share/
 /pyvenv.cfg
-/share
-/lib64
+.Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Keep all files in the project directory
+!/project/
+
+# But still exclude any cache files that might be in project
+/project/__pycache__/
+/project/.ipynb_checkpoints/
+
+# OS specific files
+.DS_Store
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
