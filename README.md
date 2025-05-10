@@ -108,7 +108,7 @@ The analysis reveals several important insights:
 
 ## 📝 License
 
-[**MIT License — see LICENSE for details.**
+**GNU General Public License — see LICENSE for details.**
 
 ---
 
